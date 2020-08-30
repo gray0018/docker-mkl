@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+# *.mtx
+*.mtx
+
+=======
+>>>>>>> 059c6cf313cb8c0e035d65f13b8f206f6424fb6a
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
