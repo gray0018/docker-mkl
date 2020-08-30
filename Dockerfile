@@ -11,7 +11,7 @@ RUN apt install cmake -y
 RUN apt install glibc-doc -y
 RUN apt install libgmp3-dev -y
 RUN apt install libmpfr-dev -y
-# RUN apt install liblapack-dev -y
+
 
 RUN cp /usr/lib/x86_64-linux-gnu/libcublas.so /usr/local/cuda/lib64/
 

@@ -81,7 +81,7 @@ SUITESPARSE_VERSION = 5.8.1
     #---------------------------------------------------------------------------
 
     # use 8 jobs by default
-    JOBS ?= 32
+    JOBS ?= 64
 
     CMAKE_OPTIONS ?= -DCMAKE_INSTALL_PREFIX=$(INSTALL)
 
